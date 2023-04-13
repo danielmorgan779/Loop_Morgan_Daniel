@@ -1,0 +1,13 @@
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\bin\Debug\netcoreapp3.1\Loop_Morgan_Daniel.exe
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\bin\Debug\netcoreapp3.1\Loop_Morgan_Daniel.deps.json
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\bin\Debug\netcoreapp3.1\Loop_Morgan_Daniel.runtimeconfig.json
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\bin\Debug\netcoreapp3.1\Loop_Morgan_Daniel.runtimeconfig.dev.json
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\bin\Debug\netcoreapp3.1\Loop_Morgan_Daniel.dll
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\bin\Debug\netcoreapp3.1\Loop_Morgan_Daniel.pdb
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\obj\Debug\netcoreapp3.1\Loop_Morgan_Daniel.csproj.AssemblyReference.cache
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\obj\Debug\netcoreapp3.1\Loop_Morgan_Daniel.AssemblyInfoInputs.cache
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\obj\Debug\netcoreapp3.1\Loop_Morgan_Daniel.AssemblyInfo.cs
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\obj\Debug\netcoreapp3.1\Loop_Morgan_Daniel.csproj.CoreCompileInputs.cache
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\obj\Debug\netcoreapp3.1\Loop_Morgan_Daniel.dll
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\obj\Debug\netcoreapp3.1\Loop_Morgan_Daniel.pdb
+C:\Users\daniel.morgan\source\repos\Loop_Morgan_Daniel\Loop_Morgan_Daniel\obj\Debug\netcoreapp3.1\Loop_Morgan_Daniel.genruntimeconfig.cache
